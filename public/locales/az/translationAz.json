@@ -115,6 +115,8 @@
     "phone": "nömrə",
     "email": "email",
     "message": "mesaj",
-    "key": "Mesaj göndər"
+    "key": "Mesaj göndər",
+    "successMessage": "Mesajınız müvəffəqiyyətlə göndərildi!",
+    "errorMessage": "Mesaj göndərərkən xəta baş verdi."
   }
 }

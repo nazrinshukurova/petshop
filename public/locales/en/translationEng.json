@@ -114,6 +114,8 @@
     "phone": "Phone",
     "email": "email",
     "message": "Message",
-    "key": "Send message"
+    "key": "Send message",
+    "successMessage": "Your message has been sent successfully!",
+    "errorMessage": "There was an error sending your message."
   }
 }
