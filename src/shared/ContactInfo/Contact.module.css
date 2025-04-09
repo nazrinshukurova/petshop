@@ -1,0 +1,21 @@
+.contactContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    color: #823535; /* reddish tone */
+    font-size: 18px;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .contactItem {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .icon {
+    font-size: 24px;
+  }
+  

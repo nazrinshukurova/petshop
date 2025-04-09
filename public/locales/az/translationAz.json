@@ -1,0 +1,75 @@
+{
+  "navbar": {
+    "home_page": "Ana səhifə",
+    "gallery": "Qaleriya",
+    "about_us": "Haqqımızda",
+    "links": "Linklər",
+    "contact": "Kontaktlar"
+  },
+
+  "home_section_1": {
+    "follow_us": "Bizi izləyin",
+    "contacts": "Kontaktlar",
+    "location": "Ünvan"
+  },
+
+  "welcome_section": {
+    "welcome_paragraph": "İllərdir İngilis Bulldog cinsi İtçilərin İdarə Heyəti (GCCF) tərəfindən ölkənin ən populyar iti olaraq tanınır və onun mehriban xarakteri və ayı oyuncaq kimi şirin görkəmi nəzərə alındıqda, bu heç də təəccüblü deyil. Xarakter baxımından İngilis Bulldog möhtəşəm bir itdir.",
+    "welcome_text": "Veb saytımıza xoş gəlmisiniz.",
+    "btn": "Satışda olan bütün itlərə baxın."
+  },
+  "dog_dashboard": {
+    "dashboard_title": "İngilis Bulldog Cins Profili",
+    "breed_number": "Cins nömrəsi",
+    "breed_value": "40",
+    "lifespan": "Orta ömür müddəti",
+    "lifespan_value": "15-20 il",
+    "temperament": "Xasiyyət",
+    "temperament_value": "Mehriban və şəfqətli, sadiq və vəfalı, uşaqlar və digər heyvanlarla yaxşı yola gedən.",
+    "weight": "Çəki",
+    "weight_value": "Erkəklər 6.8 - 8.1 kq; dişilər 4.5 - 5.4 kq",
+    "availability": "ƏLÇATANLIQ",
+    "availability_value": "Asan",
+    "colours": "Rənglər",
+    "colours_value": "Demək olar ki, bütün təsəvvür edilə bilən rəng və örtük naxışlarında mövcuddur.",
+    "grooming": "Baxım",
+    "grooming_value": "Həftədə bir dəfə kifayətdir. Sadə əl ilə baxım ölü tükləri tez-tez təmizləyir."
+  },
+  "choosing_dog": {
+    "title": "İT SEÇİMİ",
+    "paragraph": "Erkək və dişi it arasında seçim etmək asan deyil, çünki hər ikisi də əla yoldaş ola bilər. Xarakter fərqləri isə əsasən erkək və dişi olmağından yox, hər bir itin özünəməxsus xüsusiyyətlərə sahib olmasından qaynaqlanır."
+  },
+  "articles": {
+    "title_1": "balaca itlərin ölümü problemi",
+    "paragraph_1": "Balaca itlərin ölümü, həm də iqtisadi bir problem olmaqla, hər hansı bir nəsil yetişdirmə proqramında müəyyən dərəcədə meydana gəlir. Scott və digərlərinin 1976-cı ildə 800-dən çox doğumda 3,000-dən çox balaca it üzərində apardığı araşdırma, doğuşdan bir yaşa qədər olan dövrdə 34.5% ölüm göstəricisini göstərmişdir ki, bu da əhəmiyyətli bir rəqəmdir.",
+    "title_2": "Sterilizasiya və Castrasiya Haqqında Əfsanələr və Həqiqətlər",
+    "paragraph_2": "Heyvan populyasiyası sürətlə artır. Hər il milyonlarla istənilməyən ev heyvanları dünyaya gəlir və onların əksəriyyəti 'canlı tullantı' kimi qəbul edilir və atılır. Ev heyvanlarının öldürülməsinin əsas səbəbləri sahiblərin heyvanlarını sterilizasiya etməməsi və itaət problemləri səbəbindən heyvanların sığınacaqlara atılması və ya təslim edilməsidir."
+  },
+  "gallery": {
+    "useful_tips": {
+      "title": "Həyat yoldaşı kimi davranan fırıldaqçıları müəyyən etmək üçün faydalı məsləhətlər",
+      "title_2": "bizim qalereyamız",
+      "paragraph_1": "Veb saytını diqqətlə yoxlayın. Bu fırıldaqçılar digər saytlardan şəkilləri oğurlayır və altına öz təsvirlərini əlavə edirlər.",
+      "paragraph_2": "Eyni itdən müxtəlif bucaqlardan daha çox şəkil istəyə bilərsiniz. Eyni itin daha gənc olduğu vaxtdan bir şəkil istəyin. Təsadüfi olaraq onları təqdim edə bilərlərmi?",
+      "paragraph_3": "Saytın bir və ya iki cümləsini Google-a yapışdırın və sitat işarələri ilə əhatə edin, məsələn, əgər onlar istinadlar siyahısı verirlərsə."
+    }
+  },
+  "mission": {
+    "main_title": "Bizim missiyamız",
+    "text_1": "Ev itləri, stressli itlər, xəstə itlər, evsiz itlər, sərbəst yaşayan (küçə) itlər, yaşlı və cavan itlərin hamısının müxtəlif ehtiyacları, fərqli problemləri və onlara fərqli yanaşma tərzləri var. Və məhz burada biz işə qarışırıq...",
+    "text_2": "50 ildən artıqdır ki, biz baytar həkimlər, itlər üçün sığınacaq və otel xidmətləri göstərənlər, xilasetmə işləri ilə məşğul olanlar, yetişdiricilər və əlbəttə ki, it sahibləri üçün mümkün olan ən yaxşı məlumatı təqdim edərək, itlərə göstərilən müalicə və qayğı standartlarını yüksəldirik.",
+    "title_3": "İnsanları maarifləndirməklə, təlim və tövsiyələr paylaşmaqla, onların bilik və motivasiyasını artıraraq, bütün dünyada itlərin sağlamlığını və rifahını yaxşılaşdırmağa təşviq etmək, öyrətmək və gücləndirmək.",
+    "btn_text": "Detallar"
+  },
+  "about": {
+    "about_title": "Haqqımızda qısa məlumat",
+    "about_text_1": "Biz Merilend ştatının şimal-qərbində yerləşən, ev şəraitində fəaliyyət göstərən kiçik bir it yetişdirmə təsərrüfatıyıq. Balalarımız ev şəraitində, sevgi və diqqətlə böyüyür, yaxşı sosiallaşmış olurlar. Biz sağlam və xoş xasiyyətli it balalarının yetişdirilməsinə sadiqik. Yazılı sağlamlıq zəmanəti təqdim edirik. İtlərimiz müxtəlif cinslərdə ənənəvi rənglərdə (qara-qəhvəyi, mavi, şokolad rəngi və bənövşəyi) bala verirlər. Bizim təklif etdiyimiz itlər və balalar çox sevimlidir, ailələrini sevirlər və digər heyvanlarla yaxşı yola gedirlər.",
+    "about_text_2": "İtlərin yetişdirilməsi ilə məşğul olmağımız 2010-cu ilin mart ayında Merilend ştatının Pikesville şəhərində ilk dəfə iştirak etdiyimiz CFA it sərgisindən sonra başladı. Həmin sərgiyə Vito — bizim Ragamuffin cinsli itimiz üçün yoldaş tapa biləcəyimiz ümidi ilə getmişdik. 2010-cu ildən çox əvvəl Yorkie və digər məşhur it cinslərini yetişdirir və sərgilərdə nümayiş etdirirdik, və Vito da daim onların arasında böyümüşdü. Hesab edirik ki, həmin sərgidə iştirakımız bizi it yetişdirmə fəaliyyətimiz barədə daha da əmin etdi və o vaxtdan bəri bu işlə məşğuluq."
+  },
+  "reputation": {
+    "reputation_title": "Damazlıqçının Nüfuzu və Biznes Təcrübələri",
+    "reputation_text_1": "Damazlıqçı ildə neçə bala böyüdür? Damazlıqçının böyütdüyü balaların sayı, hər bir balaya düzgün şəkildə diqqət və qayğı göstərmək imkanına təsir göstərə bilər. Əgər çox sayda bala varsa, onların ideal şəraitdə böyüməsi çətinləşə bilər.",
+    "reputation_text_2": "Bala necə sosiallaşdırılıb? Balaların erkən yaşlardan (xüsusilə 6-16 həftə arası dövrdə) digər itlər və insanlarla sosiallaşması çox vacibdir. Əgər kifayət qədər sosiallaşdırılmasa, bala böyüdükcə narahat və özünə güvənməyən ola bilər.",
+    "reputation_text_3": "Damazlıqçının qeydiyyatda olduğu it assosiasiyası hansıdır? Damazlıqçının və onun nəsil xəttinin hansı assosiasiyada qeydiyyatda olduğunu bilmək, əgər iti sərgilərə çıxarmağı düşünürsünüzsə, vacib ola bilər. Fərqli it assosiasiyaları müxtəlif standart və qaydalara malikdir."
+  }
+}

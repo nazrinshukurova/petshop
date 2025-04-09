@@ -1,0 +1,66 @@
+.main_title {
+  line-height: 1.86667;
+  font-size: 15px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+}
+
+.article_section_main {
+  position: relative;
+}
+
+.dog_photo {
+  position: absolute;
+  height: 330px;
+  width: 360px;
+  bottom: -30%;
+  left: 34%;
+}
+
+.article_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  background-color: #f9f8f8;
+  padding: 92px 75px 148px 75px;
+}
+
+.articles {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 150px;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.title {
+  color: #313131;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  line-height: 2.28571;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding-left: 30px;
+}
+
+.divider {
+  width: 75px;
+  height: 5px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #983a42;
+  border: none;
+}
+
+.text {
+  padding-left: 30px;
+  color: #717171;
+  font-size: 14px;
+  line-height: 26px;
+  width: 387px;
+}

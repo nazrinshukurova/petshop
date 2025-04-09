@@ -1,0 +1,54 @@
+.about_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f7f7f4;
+  margin:  52px;
+  padding: 92px 15px 148px;
+}
+
+.about_layout {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.about_title {
+  line-height: 1.75;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: #313131;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.about_text {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #717171;
+  width: 700px;
+}
+
+.reputation_title {
+  margin-top: 20px;
+  line-height: 1.75;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.reputation_text {
+  margin: 20px;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #717171;
+}

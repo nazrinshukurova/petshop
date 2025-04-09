@@ -1,0 +1,80 @@
+.grid_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 70px;
+  gap: 50px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+  grid-template-rows: repeat(2, 250px);
+  gap: 20px;
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.title {
+  line-height: 1.75;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: #313131;
+  font-family: "Open Sans", sans-serif;
+}
+
+.photo_box {
+  background-color: #f9f8f8;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding: 92px 15px 148px 15px;
+}
+
+.text_groups {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 584px;
+}
+
+.text_groups_title {
+  line-height: 2.28571;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #313131;
+}
+
+.text_groups_texts {
+  font-size: 14px;
+  line-height: 26px;
+  color: #717171;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.photo10_box {
+  width: 30%;
+}
+
+.photo10 {
+  width: 100%;
+}
+
+.mission_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  width: 100%;
+}

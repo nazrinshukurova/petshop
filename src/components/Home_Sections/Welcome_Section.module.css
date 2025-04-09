@@ -1,0 +1,48 @@
+.welcome_section {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.welcome_text {
+  line-height: 1.75;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.welcome_paragraph {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #717171;
+  text-align: center;
+  width: 570px;
+}
+
+.btn {
+  font-weight: 700;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid #717171;
+  padding: 10px 42px;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  padding: 11px 25px;
+  transition: 0.2s;
+  color: #222;
+  margin-bottom: 50px;
+  text-decoration: none;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.btn:hover {
+  background-color: #222;
+  color: #fff;
+}

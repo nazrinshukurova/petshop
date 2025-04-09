@@ -1,0 +1,26 @@
+.page_footer {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #313131;
+  padding-top: 78px;
+  padding-bottom: 85px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.hr {
+  font-size: 28px;
+  font-weight: 100;
+}
+
+.policy {
+  text-decoration: none;
+  color: #313131;
+}
