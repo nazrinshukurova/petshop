@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "../../components/Home/Home.module.css";
 import dog_image from "../../assets/index-01.jpg";
-import SocialIcons from "../../shared/SocialIcons/SocialIcons.JSX";
+import SocialIcons from "../../shared/SocialIcons/SocialIcons.jsx";
 import ContactInfo from "../../shared/ContactInfo/ContactInfo";
 import { useTranslation } from "react-i18next";
 
