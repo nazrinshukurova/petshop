@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Gallery from "./pages/Gallery";
 import AboutUs from "./pages/AboutUs";
 import LinksComponent from "./pages/Links";
+import Contacts from "./pages/Contacts";
 
 const App = () => {
   return (
@@ -16,7 +17,8 @@ const App = () => {
           <Route path="/" element={<Home />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/about_us" element={<AboutUs />} />
-          <Route path="/links" element={<LinksComponent/>}/>
+          <Route path="/links" element={<LinksComponent />} />
+          <Route path="/contacts" element={<Contacts />} />
         </Routes>
       </BrowserRouter>
       <Footer />

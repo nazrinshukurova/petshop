@@ -57,7 +57,7 @@ const Navbar = () => {
             <li className={styles.border}></li>
             <Link
               style={{ textDecoration: "none", color: " #313131" }}
-              to="/contact"
+              to="/contacts"
             >
               <li className={styles.li}>{t("navbar.contact")}</li>
             </Link>

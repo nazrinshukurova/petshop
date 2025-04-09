@@ -93,5 +93,28 @@
     "text_5": "İtlərin davranışını daha yaxşı anlamağımız və bu mövzuda biliklərimizin artması, bu gözəl heyvanlardan aldığımız zövqü daha da artıracaq.",
     "title_6": "İtlər və İnsan Sağlamlığı",
     "text_6": "İt saxlamağın sizə necə təsir göstərə biləcəyi ilə bağlı narahat olmaq başadüşüləndir. Kədər, it yığımı və it sahibi olmağın faydaları haqqında məlumat əldə edin."
+  },
+  "links": {
+    "section_1": {
+      "title": "Faydalı Linklər",
+      "dealingWithPuppyEnquiries": "Yavru itlərlə bağlı sorğularla məşğul olmaq",
+      "findingAGoodDogBreeder": "Yaxşı it yetişdiricisi tapmaq",
+      "topTenQuestions": "Ən çox verilən on sual",
+      "keepingDogsSafe": "İtləri təhlükəsiz saxlamaq",
+      "dogCareHowTo": "İt baxımı necə olmalıdır",
+      "dogCareVideos": "İt baxımı videoları"
+    },
+    "section_2": {
+      "btn": "Daha ətraflı oxu",
+      "delivery": "çatdırılması mümkün"
+    }
+  },
+  "form": {
+    "title": "Kontakt formu",
+    "name": "Ad",
+    "phone": "nömrə",
+    "email": "email",
+    "message": "mesaj",
+    "key": "Mesaj göndər"
   }
 }

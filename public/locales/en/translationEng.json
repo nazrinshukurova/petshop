@@ -79,19 +79,41 @@
     "profession_1": "Owner",
     "profession_2": "Breeder"
   },
- "useful_boxes": {
-  "title_1": "Getting a Dog",
-  "text_1": "Get to know where to get a dog and how to choose one that is right for you and your lifestyle, and how to help your new dog settle in.",
-  "title_2": "Dog health care",
-  "text_2": "Read high-quality and accurate dog health information, designed to help owners understand dog health conditions.",
-  "title_3": "Problem behaviour",
-  "text_3": "Providing insight into why the behaviour is occurring in the first place, and how it can be addressed and hopefully solved.",
-  "title_4": "General care",
-  "text_4": "Essential information on caring for your dog. Everything you need to know about getting a dog and how to keep it happy, healthy and safe.",
-  "title_5": "Dog behaviour",
-  "text_5": "Increasing our understanding and knowledge of dog behaviour can only enhance our enjoyment and love of these special animals.",
-  "title_6": "Dogs and human health",
-  "text_6": "It is understandable to be concerned about how keeping a dog could impact you. Find information on bereavement, dog hoarding, and the benefits of owning a dog."
-}
-
+  "useful_boxes": {
+    "title_1": "Getting a Dog",
+    "text_1": "Get to know where to get a dog and how to choose one that is right for you and your lifestyle, and how to help your new dog settle in.",
+    "title_2": "Dog health care",
+    "text_2": "Read high-quality and accurate dog health information, designed to help owners understand dog health conditions.",
+    "title_3": "Problem behaviour",
+    "text_3": "Providing insight into why the behaviour is occurring in the first place, and how it can be addressed and hopefully solved.",
+    "title_4": "General care",
+    "text_4": "Essential information on caring for your dog. Everything you need to know about getting a dog and how to keep it happy, healthy and safe.",
+    "title_5": "Dog behaviour",
+    "text_5": "Increasing our understanding and knowledge of dog behaviour can only enhance our enjoyment and love of these special animals.",
+    "title_6": "Dogs and human health",
+    "text_6": "It is understandable to be concerned about how keeping a dog could impact you. Find information on bereavement, dog hoarding, and the benefits of owning a dog."
+  },
+  "links": {
+    "section_1": {
+      "title": "Useful Links",
+      "dealingWithPuppyEnquiries": "Dealing With Puppy Enquiries",
+      "findingAGoodDogBreeder": "Finding a Good Dog Breeder",
+      "topTenQuestions": "Top Ten Questions",
+      "keepingDogsSafe": "Keeping Dogs Safe",
+      "dogCareHowTo": "Dog Care How To",
+      "dogCareVideos": "Dog Care Videos"
+    },
+    "section_2": {
+      "btn": "Read more",
+      "delivery": "Delivery possible"
+    }
+  },
+  "form": {
+    "title": "Contact form",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "email",
+    "message": "Message",
+    "key": "Send message"
+  }
 }
