@@ -99,3 +99,13 @@
   color: #313131;
   text-align: center;
 }
+
+.section_7 {
+  margin-top: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  background-color: #f9f8f8;
+  margin: 120px 52px;
+}

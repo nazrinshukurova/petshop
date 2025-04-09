@@ -79,5 +79,19 @@
     "title": "Komandamızla tanış olun",
     "profession_1": "Sahib",
     "profession_2": "damazlıq"
+  },
+  "useful_boxes": {
+    "title_1": "İt Sahibi Olmaq",
+    "text_1": "Haradan it əldə edə biləcəyinizi, sizin həyat tərzinizə uyğun iti necə seçəcəyinizi və yeni itinizi evə necə alışdıracağınızı öyrənin.",
+    "title_2": "İtin Sağlamlığı",
+    "text_2": "İtin sağlamlığı ilə bağlı yüksək keyfiyyətli və dəqiq məlumatlar – it sahiblərinin sağlamlıq vəziyyətlərini başa düşməsinə kömək etmək üçün hazırlanmışdır.",
+    "title_3": "Davranış Problemləri",
+    "text_3": "Davranışın nə üçün baş verdiyini anlamağa kömək edir və onunla necə mübarizə aparmaq, hətta problemi həll etmək yollarını göstərir.",
+    "title_4": "Ümumi Qayğı",
+    "text_4": "İtə necə qulluq etməli olduğunuzla bağlı əsas məlumatlar. İt almaqdan tutmuş onu xoşbəxt, sağlam və təhlükəsiz saxlamağa qədər hər şey burada var.",
+    "title_5": "İtin Davranışı",
+    "text_5": "İtlərin davranışını daha yaxşı anlamağımız və bu mövzuda biliklərimizin artması, bu gözəl heyvanlardan aldığımız zövqü daha da artıracaq.",
+    "title_6": "İtlər və İnsan Sağlamlığı",
+    "text_6": "İt saxlamağın sizə necə təsir göstərə biləcəyi ilə bağlı narahat olmaq başadüşüləndir. Kədər, it yığımı və it sahibi olmağın faydaları haqqında məlumat əldə edin."
   }
 }

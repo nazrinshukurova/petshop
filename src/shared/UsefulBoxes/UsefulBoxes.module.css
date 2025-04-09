@@ -1,0 +1,18 @@
+.title {
+  line-height: 2.28571;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #313131;
+  text-align: left;
+  max-width: 260px;
+}
+
+.text {
+  max-width: 260px;
+  margin-top: 28px;
+  font-size: 14px;
+  line-height: 26px;
+  color: #717171;
+}

@@ -10,7 +10,7 @@ const Thumbnail = ({ thumbnailSrc, name, profession }) => {
       <div className={styles.image_box}>
         <img className={styles.image} src={thumbnailSrc} alt="Image" />
         <h4 className={styles.name}>{name}</h4>
-        <p className={styles.profession}>{t("thumbnail.profession_1")}</p>
+        <p className={styles.profession}>{profession}</p>
       </div>
     </div>
   );

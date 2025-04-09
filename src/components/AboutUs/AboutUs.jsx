@@ -6,6 +6,7 @@ import about3 from "../../assets/about-03.png";
 import about4 from "../../assets/about-04.jpg";
 import about5 from "../../assets/about-05.jpg";
 import about6 from "../../assets/about-06.jpg";
+import about7 from "../../assets/about-07.png";
 import { useTranslation } from "react-i18next";
 import Line from "../../shared/Line/Line";
 import Image_box from "../../shared/ImageBox/Image_box";
@@ -62,17 +63,24 @@ const About = () => {
       <Image_box src={about3} />
       <h4 className={styles.thumbnail_title}>{t("thumbnail.title")}</h4>
       <div className={styles.image_layout}>
-        <Thumbnail thumbnailSrc={about4} name="Jame Smith" profession="Owner" />
+        <Thumbnail
+          thumbnailSrc={about4}
+          name="Jame Smith"
+          profession={t("thumbnail.profession_1")}
+        />
         <Thumbnail
           thumbnailSrc={about5}
           name="Caroline Beek"
-          profession="breeder"
+          profession={t("thumbnail.profession_2")}
         />
         <Thumbnail
           thumbnailSrc={about6}
           name="Dayle Peters"
-          profession="breeder"
+          profession={t("thumbnail.profession_2")}
         />
+      </div>
+      <div className={styles.section_7}>
+        <Image_box src={about7} />
       </div>
     </div>
   );
