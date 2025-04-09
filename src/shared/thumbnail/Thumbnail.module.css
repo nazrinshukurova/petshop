@@ -1,0 +1,36 @@
+.image_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 334px;
+  height: auto;
+  border: 1px solid #eeeeee;
+}
+
+
+.name {
+  line-height: 1.75;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #313131;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  letter-spacing: 0.08em;
+  margin-top: 14px;
+}
+
+.profession {
+  font-size: 12px;
+  margin-top: 3px;
+  color: #c7c7c7;
+  font-weight: 700;
+  line-height: 26px;
+  text-transform: uppercase;
+  margin: 0 0 14px;
+}
+
+.image {
+  width: 334px;
+  height: 223px;
+}

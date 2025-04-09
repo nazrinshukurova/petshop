@@ -67,8 +67,16 @@
   },
   "reputation": {
     "reputation_title": "Breeder’s Reputation and Business Practices",
-    "reputation_text_1": "How many litters are raised by the breeder yearly? The number of puppies a breeder raises may impact their ability to properly socialize and care for each individual puppy. If there are too many litters, the puppies may not be raised in the best environment.",
-    "reputation_text_2": "How has the puppy been socialized? It's very important that the puppy has opportunities to socialize with other dogs and people from an early age—especially between 6 and 16 weeks. Without adequate socialization, the puppy may grow up nervous and insecure.",
-    "reputation_text_3": "What dog association is the breeder registered with? Knowing which association the breeder and their bloodlines are registered with is important if you plan to participate in dog shows. Different associations have varying standards and rules."
+    "reputation_text_1": "The number of puppies a breeder raises may impact their ability to properly socialize and care for each individual puppy. If there are too many litters, the puppies may not be raised in the best environment.",
+    "reputation_text_2": "It's very important that the puppy has opportunities to socialize with other dogs and people from an early age—especially between 6 and 16 weeks. Without adequate socialization, the puppy may grow up nervous and insecure.",
+    "reputation_text_3": "Knowing which association the breeder and their bloodlines are registered with is important if you plan to participate in dog shows. Different associations have varying standards and rules.",
+    "reputation_question_1": "How many litters are raised by the breeder yearly?",
+    "reputation_question_2": "How has the puppy been socialized?",
+    "reputation_question_3": "What dog association is the breeder registered with? "
+  },
+  "thumbnail": {
+    "title": "Meet our team",
+    "profession_1": "Owner",
+    "profession_2": "Breeder"
   }
 }

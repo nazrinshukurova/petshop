@@ -4,8 +4,9 @@
   align-items: center;
   justify-content: center;
   background-color: #f7f7f4;
-  margin:  52px;
+  margin: 52px;
   padding: 92px 15px 148px;
+  position: relative;
 }
 
 .about_layout {
@@ -15,6 +16,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
+  position: relative;
 }
 
 .about_title {
@@ -36,6 +38,7 @@
 }
 
 .reputation_title {
+  margin-bottom: 50px;
   margin-top: 20px;
   line-height: 1.75;
   font-size: 16px;
@@ -51,4 +54,48 @@
   font-size: 16px;
   line-height: 1.75;
   color: #717171;
+}
+
+.reputation_question {
+  line-height: 2.28571;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #983a42;
+}
+
+.reputation_box {
+  width: 745px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.about_dog {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 270px;
+  height: 290px;
+}
+
+.image_layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 84px;
+}
+
+.thumbnail_title {
+  line-height: 1.75;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  color: #313131;
+  text-align: center;
 }

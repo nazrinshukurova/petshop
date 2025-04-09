@@ -12,13 +12,14 @@ import photo10 from "../../../assets/gallery-10.jpg";
 import { useTranslation } from "react-i18next";
 import Button from "../../../shared/Button/Button";
 import Line from "../../../shared/Line/Line";
+import Image_box from "../../../shared/ImageBox/Image_box";
 
-const Dog_Category = () => {
+const Dog_Category = ({src}) => {
   const { t } = useTranslation();
 
   return (
     <div className={styles.grid_box}>
-      <img src={photo7}></img>
+      <Image_box src={photo7}/>
       <h4 className={styles.title}>{t("gallery.useful_tips.title_2")}</h4>
       <div className={styles.grid}>
         <div className={styles.cell}>
@@ -41,7 +42,7 @@ const Dog_Category = () => {
         </div>
       </div>
       <div className={styles.photo_box}>
-        <img src={photo9}></img>
+        <Image_box src={photo9}/>
         <Line/>
         <h5>{t("mission.main_title")}</h5>
         <div className={styles.mission_box}>

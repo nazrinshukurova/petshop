@@ -3,14 +3,15 @@ import photo2 from "../../assets/index-02.png";
 import styles from "./Welcome_Section.module.css";
 import { useTranslation } from "react-i18next";
 import Button from "../../shared/Button/Button";
+import Image_box from "../../shared/ImageBox/Image_box";
 
-const Welcome_Section = () => {
+const Welcome_Section = ({src}) => {
   const { t } = useTranslation();
 
   return (
     <>
       <div className={styles.welcome_section}>
-        <img width="441px" height="357px" src={photo2}></img>
+        <Image_box src={photo2}/>
         <h4 className={styles.welcome_text}>
           {t("welcome_section.welcome_text")}
         </h4>

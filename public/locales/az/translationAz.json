@@ -68,8 +68,16 @@
   },
   "reputation": {
     "reputation_title": "Damazlıqçının Nüfuzu və Biznes Təcrübələri",
-    "reputation_text_1": "Damazlıqçı ildə neçə bala böyüdür? Damazlıqçının böyütdüyü balaların sayı, hər bir balaya düzgün şəkildə diqqət və qayğı göstərmək imkanına təsir göstərə bilər. Əgər çox sayda bala varsa, onların ideal şəraitdə böyüməsi çətinləşə bilər.",
-    "reputation_text_2": "Bala necə sosiallaşdırılıb? Balaların erkən yaşlardan (xüsusilə 6-16 həftə arası dövrdə) digər itlər və insanlarla sosiallaşması çox vacibdir. Əgər kifayət qədər sosiallaşdırılmasa, bala böyüdükcə narahat və özünə güvənməyən ola bilər.",
-    "reputation_text_3": "Damazlıqçının qeydiyyatda olduğu it assosiasiyası hansıdır? Damazlıqçının və onun nəsil xəttinin hansı assosiasiyada qeydiyyatda olduğunu bilmək, əgər iti sərgilərə çıxarmağı düşünürsünüzsə, vacib ola bilər. Fərqli it assosiasiyaları müxtəlif standart və qaydalara malikdir."
+    "reputation_text_1": "Damazlıqçının böyütdüyü balaların sayı, hər bir balaya düzgün şəkildə diqqət və qayğı göstərmək imkanına təsir göstərə bilər. Əgər çox sayda bala varsa, onların ideal şəraitdə böyüməsi çətinləşə bilər.",
+    "reputation_text_2": "Balaların erkən yaşlardan (xüsusilə 6-16 həftə arası dövrdə) digər itlər və insanlarla sosiallaşması çox vacibdir. Əgər kifayət qədər sosiallaşdırılmasa, bala böyüdükcə narahat və özünə güvənməyən ola bilər.",
+    "reputation_text_3": "Damazlıqçının və onun nəsil xəttinin hansı assosiasiyada qeydiyyatda olduğunu bilmək, əgər iti sərgilərə çıxarmağı düşünürsünüzsə, vacib ola bilər. Fərqli it assosiasiyaları müxtəlif standart və qaydalara malikdir.",
+    "reputation_question_1": "Damazlıqçı ildə neçə bala böyüdür?",
+    "reputation_question_2": "Bala necə sosiallaşdırılıb?",
+    "reputation_question_3": "Damazlıqçının qeydiyyatda olduğu it assosiasiyası hansıdır?"
+  },
+  "thumbnail": {
+    "title": "Komandamızla tanış olun",
+    "profession_1": "Sahib",
+    "profession_2": "damazlıq"
   }
 }

@@ -2,13 +2,14 @@ import React from "react";
 import photo9 from "../../../assets/gallery-01.png";
 import styles from "./UsefulTips.module.css";
 import { useTranslation } from "react-i18next";
+import Image_box from "../../../shared/ImageBox/Image_box";
 
-const UsefulTips = () => {
+const UsefulTips = ({src}) => {
   const { t } = useTranslation();
   return (
     <div>
       <div className={styles.section_layout}>
-        <img src={photo9}></img>
+        <Image_box  src={photo9}/>
         <h4 className={styles.title}>
         {t("gallery.useful_tips.title")}
         </h4>
