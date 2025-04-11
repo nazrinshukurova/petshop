@@ -9,7 +9,7 @@ import image2 from "../../assets/links-04.jpg";
 import image3 from "../../assets/links-05.jpg";
 import image4 from '../../assets/links-06.png'
 
-const Links = ({src}) => {
+const Links = () => {
   const { t } = useTranslation();
 
   return (

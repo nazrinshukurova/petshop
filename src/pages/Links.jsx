@@ -2,7 +2,7 @@ import React from "react";
 import Links from "../components/Links/Links";
 
 
-const LinksComponent = ({ dogPhoto }) => {
+const LinksComponent = () => {
   return (
     <div>
       <Links />

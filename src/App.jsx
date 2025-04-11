@@ -7,6 +7,7 @@ import Gallery from "./pages/Gallery";
 import AboutUs from "./pages/AboutUs";
 import LinksComponent from "./pages/Links";
 import Contacts from "./pages/Contacts";
+import Links from "./components/Links/Links";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
           <Route path="/about_us" element={<AboutUs />} />
           <Route path="/links" element={<LinksComponent />} />
           <Route path="/contacts" element={<Contacts />} />
+          <Route path="/delivery" element={<Links />} />
         </Routes>
       </BrowserRouter>
       <Footer />
